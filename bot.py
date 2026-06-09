@@ -21,9 +21,8 @@ PVT_CHANNEL_ID = -1003763847738  # YAHAN APNA PVT CHANNEL ID DALO (Logs channel 
 
 # Required channels to join
 REQUIRED_CHATS = [
-    {"link": "https://t.me/VEO3_2", "id": None},
-    {"link": "https://t.me/VEO3_2", "id": None},
-    {"link": "https://t.me/VEO3_2", "id": None},
+    {"link": "https://t.me/Veo3_free_Paid", "id": None},
+	{"link": "https://t.me/who_is_me_1", "id": None},
 ]
 
 # Premium Plans with Credits
@@ -506,7 +505,7 @@ async def send_realtime_hit_to_user(user_id, hit_type, card, response_msg, gatew
 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {country} {flag}</pre>
 <b>━━━━━━━━━━━━━━━━━</b>
 
-🤖 <b>Bot By: <a href="tg://user?id=7415233736">Buik100</a></b>"""
+🤖 <b>Bot By: <a href="tg://user?id=7415233736">VEO3_2</a></b>"""
     
     try:
         await bot.send_message(user_id, premium_emoji(message), parse_mode='html')
