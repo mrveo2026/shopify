@@ -10,7 +10,7 @@ import re
 from datetime import datetime, timedelta
 
 # ========== CONFIGURATION ==========
-CHECKER_API_URL = 'https://haters.cxchk.site/shopii'
+CHECKER_API_URL = 'http://cozy-abundance-production-ea47.up.railway.app/shopify'
 
 API_ID = 37536372
 API_HASH = 'abcebb0aa8c00b3ccb4a3172b566325d'
